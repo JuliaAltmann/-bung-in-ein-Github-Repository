@@ -1,2 +1,2 @@
-# -bung-in-ein-Github-Repository
+# Übung in ein Github Repository
 My fist Project
